@@ -1,0 +1,54 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  margin-top: 5px;
+}
+
+label {
+  color: #333;
+}
+
+.btn-send {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  width: 80%;
+  margin-left: 3px;
+  background-color: #333;
+}
+.help-block.with-errors {
+  color: #ff5050;
+  margin-top: 5px;
+}
+
+.col-md-12 {
+  margin-top: 5px;
+}
+
+.error {
+  font-size: 14px;
+  margin-left: 4px;
+  margin-top: 3px;
+  color: red;
+}
+.sendbutton {
+  margin-top: 25px;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  margin-left: 10px;
+  margin-right: 10px;
+}
